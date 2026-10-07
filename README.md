@@ -25,3 +25,5 @@ The check reads one small text file from this page and sends nothing about you o
 
 Hamouda tab > **Help and Feedback** > **Send a Suggestion** / **Ask a Question** / **Report a Problem** opens an
 e-mail draft (with your Hamouda and Excel version) that you can edit before sending.
+
+The publisher's contact details are in Hamouda: **Help and Feedback > About Hamouda**.
